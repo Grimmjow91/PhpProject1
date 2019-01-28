@@ -6,9 +6,11 @@
     <script src="js/bootstrap.min.js"></script>
 </head>
 
-<body>
+<body
+
     <div class="container">
     		<div class="row">
+                        <h3><a href="https://github.com/Grimmjow91/PhpProject1"> Github repo</a>
     			<h3>PHP CRUD Grid</h3>
     		</div>
 			<div class="row">
